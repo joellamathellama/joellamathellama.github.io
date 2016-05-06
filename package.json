@@ -1,0 +1,19 @@
+{
+  "name": "joellamathellama.github.io",
+  "version": "1.0.0",
+  "description": "Github repository for joelahn.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joellamathellama/joellamathellama.github.io.git"
+  },
+  "author": "Joel Ahn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joellamathellama/joellamathellama.github.io/issues"
+  },
+  "homepage": "https://github.com/joellamathellama/joellamathellama.github.io#readme"
+}
